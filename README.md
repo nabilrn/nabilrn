@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm an Information Systems student in Andalas Univ
 
 ## About Me
 - 🎓 Information Systems student, class of 2022
-- 💻 Web and Android developer
+- 💻 Insterest with Web and Android development
 - 📱 Aspiring mobile developer with a passion for Android
 - 🌱 Currently learning advanced Android development techniques
 
