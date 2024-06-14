@@ -17,11 +17,10 @@ Welcome to my GitHub profile! I'm an Information Systems student in Andalas Univ
 <h3 align = "left">Connect with me : </h3>
 <p align="left">
 <a href="https://instagram.com/nabilrizkinavisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="husnilk" height="30" width="40" /></a>
-</p>
 
 
-<h3 align="left">Languages and Tools:</h3>
-
+  
+</p><h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -31,7 +30,7 @@ Welcome to my GitHub profile! I'm an Information Systems student in Andalas Univ
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
   </a>
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -52,6 +51,7 @@ Welcome to my GitHub profile! I'm an Information Systems student in Andalas Univ
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
