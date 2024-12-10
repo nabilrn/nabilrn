@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm an Information Systems student at Andalas Univ
 
 ## 🚀 Tech Stack  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,figma,git,androidstudio,idea,kotlin,cpp,php,js,nodejs,express,react,firebase,mysql,azure,nginx" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,figma,git,androidstudio,idea,kotlin,java,cpp,php,js,nodejs,express,react,firebase,mysql,azure,nginx" alt="Tech Stack" />
 </p>
 
 ---
