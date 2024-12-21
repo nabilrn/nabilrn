@@ -26,6 +26,16 @@ Welcome to my GitHub profile! I'm an Information Systems student at Andalas Univ
 
 ---
 
+## Github Statistic
+<p align="left">
+<a href="https://github.com/thomasasfar">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nabilrn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nabilrn&layout=compact&langs_count=8&theme=algolia&count_private=true"/>
+</a>
+</p>
+
+---
+
 ## 🌐 Connect with Me  
 <p align="left">
   <a href="https://instagram.com/nabilrizkinavisa" target="blank">
