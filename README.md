@@ -72,9 +72,7 @@ I'm an Information Systems student at Andalas University with a passion for web 
   </a>
 </p>
 
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake">
-</div>
+
 
 ---
 <h3 align="center">
