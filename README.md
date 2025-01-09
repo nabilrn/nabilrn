@@ -81,3 +81,4 @@ I'm an **Information Systems student** at **Andalas University** with a passion 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+stopping+by!+✌️;Feel+free+to+reach+out+to+me!">
 </div>
+
