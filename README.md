@@ -30,7 +30,7 @@ I'm an **Information Systems student** at **Andalas University** with a passion 
 
 ### Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql" alt="Backend Development" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql,postgres" alt="Backend Development" />
 </p>
 
 ### Tools & Platforms
