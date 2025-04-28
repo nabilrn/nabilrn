@@ -20,12 +20,12 @@ I'm an **Information Systems student** at **Andalas University** with a passion 
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,php,js" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,php,js,dart" alt="Programming Languages" />
 </p>
 
 ### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" alt="Frontend Development" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,flutter" alt="Frontend Development" />
 </p>
 
 ### Backend Development
