@@ -7,7 +7,7 @@ I'm an **Information Systems student** at **Andalas University** with a passion 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,dart,ts,js,cpp,flutter,react,tailwind,nodejs,firebase,gcp,mysql,postgres,git,figma,androidstudio,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,dart,ts,js,cpp,flutter,react,tailwind,nodejs,firebase,gcp,mysql,postgres,supabase,git,figma,androidstudio,vscode,idea" />
 </p>
 
 ---
